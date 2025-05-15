@@ -11,8 +11,7 @@ public class SwitchStatement {
                 break;
             case 3:
                 System.out.println("Mango Shake");
-                break;
-                
+                break;              
             default:
                 System.out.println("We have no food");
         }
