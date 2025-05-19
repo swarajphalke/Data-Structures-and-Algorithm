@@ -6,7 +6,8 @@ public class NumOneToN {
         System.out.print("Enter a number: ");
         int n= sc.nextInt();
         int counter = 1;
-        while(counter<=n){            
+        while(counter<=n){  
+                      
             System.out.println(counter);
             counter++;
         }
