@@ -7,6 +7,7 @@ public class NumOneToN {
         int n= sc.nextInt();
         int counter = 1;
         while(counter<=n){
+            
             System.out.println(counter);
             counter++;
         }
